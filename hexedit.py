@@ -18,7 +18,7 @@ text.config(font=('Courier', 14,"italic"),bg=text_bg_color, fg=text_fg_color)
 text.place(x=155, y=42)
 x.geometry("%dx%d"%(width,height))
 x.title("hex editor")
-file_path = 'C:/Users/abderamane/Desktop/250x250_bundesarchiv_bild_183-s33882_adolf_hitler_retouched.jpg'
+file_path = ''
 
 
 def select_files():
